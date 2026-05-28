@@ -456,7 +456,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Shapes VCO 4 Saw-Panel.kicad_pro",
+    "filename": "MoritzKlein-SHAPE4-VCO-FrontPanel.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -492,7 +492,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Gerbers/",
+      "plot": "../Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
